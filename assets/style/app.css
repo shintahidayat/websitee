@@ -1,0 +1,38 @@
+body { background:linear-gradient(#997ba7 0%, #d6afaf 40%, #dcd3e6 100%) ;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 90px;
+}
+.Gambar.jpg{
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+}
+.profile h2{
+    color: #ffffff;
+}
+.profile h4{
+    color: #ffffff;
+}
+.aboutme{
+    background:linear-gradient(#f4f4f5 0%, #e6dfdf00 40%, #f0eef105 100%) ;
+    padding-bottom: 200px;
+
+
+}
+.experience h5{
+    color: white
+}
+
+.footer{
+    background-color: #ffffff;
+    padding-bottom: 20px;
+}
+.contact a {
+    color: black;
+    font-size: 500px;
+}
